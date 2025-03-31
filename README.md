@@ -24,7 +24,7 @@ The dataset contains patient medical records with the following features:
 The following **5 machine learning models** were implemented:  
 1. **K-Nearest Neighbors (KNN)**  
 2. **Random Forest Classifier**  
-3. **Decisions Treer**  
+3. **Decisions Tree**  
 4. **Logistic Regression**  
 5. **Naive Bayes**  
 
